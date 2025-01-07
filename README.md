@@ -1,8 +1,8 @@
 # Data-Driven Department Optimization
 
-![Data-Driven Department Optimization](https://github.com/yildiramdsa/data_driven_department_optimization/blob/main/images/data_driven_department_optimization.png)
-
 This repository presents data-driven solutions designed to optimize departmental operations in Human Resources, Marketing, Sales, Operations, and Public Relations. By leveraging machine learning, deep learning, and advanced analytics, the project addresses key business challenges and enhances decision-making.
+
+![Data-Driven Department Optimization](https://github.com/yildiramdsa/data_driven_department_optimization/blob/main/images/data_driven_department_optimization.png)
 
 In the **Human Resources Department**, models like Logistic Regression, Random Forest, and Deep Learning predict employee turnover, offering insights into retention strategies. For the **Marketing Department**, techniques like K-Means, PCA, and Autoencoders enable effective customer segmentation for targeted campaigns.
 
