@@ -1,5 +1,7 @@
 # Data-Driven Department Optimization
 
+**Tech Stack:** ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-F68712?logo=xgboost&logoColor=white) ![Prophet](https://img.shields.io/badge/Prophet-0059A9?logo=prophet&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-025B8D?logo=nltk&logoColor=white)
+
 This project presents data-driven solutions to optimize departmental operations in Human Resources, Marketing, Sales, Operations, and Public Relations. The project addresses key business challenges and enhances decision-making by leveraging machine learning, deep learning, and advanced analytics.
 
 ![Data-Driven Department Optimization](https://github.com/yildiramdsa/data_driven_department_optimization/blob/main/images/data_driven_department_optimization.png)
